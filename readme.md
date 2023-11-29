@@ -14,14 +14,13 @@ O projeto também incorpora uma funcionalidade de registrar a data e a hora da e
 
 | Componente          | Quantidade | Descrição                                           |
 |---------------------|------------|-----------------------------------------------------|
-| Arduino             | [ ]        | Modelo e versão do Arduino utilizado               |
-| Sensor Ultrassônico | [ ]        | Modelo e especificações do sensor ultrassônico     |
-| LED Vermelho        | [ ]        | Especificações do LED vermelho utilizado           |
-| LED Amarelo         | [ ]        | Especificações do LED amarelo utilizado            |
-| LED Verde           | [ ]        | Especificações do LED verde utilizado              |
-| Resistor            | [ ]        | Valor e quantidade de resistores utilizados        |
-| Fios e Conectores   | [ ]        | Tipo e quantidade de fios e conectores utilizados  |
-| Outros Componentes  | [ ]        | Especificações de quaisquer outros componentes     |
+| 1x Sensor Ultrassônico | [ x ]        | Modelo Arduino UNO     |
+| 1x LED Vermelho        | [ x ]        | LED vermelho          |
+| 1x LED Amarelo         | [ x ]        | LED amarelo            |
+| 1x LED Verde           | [ x ]        | LED verde              |
+| 4x Resistor            | [ x ]        | 3 Resistores de 330 Ω para os leds e resistor de 1k para LCD       |
+| 23x Fios e Conectores   | [ x ]        | fios: 9 verdes; 2 amarelos; 4 vermelhos; 1 laranja; 7 pretos; |
+| 1x LCD                 | [ x ]        | LCD 16X2    |
 
 ## Instruções de Configuração e Execução
 
