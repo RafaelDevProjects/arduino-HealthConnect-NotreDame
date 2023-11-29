@@ -18,7 +18,7 @@ O projeto também incorpora uma funcionalidade de registrar a data e a hora da e
 | 1x LED Vermelho        | [ x ]        | LED vermelho          |
 | 1x LED Amarelo         | [ x ]        | LED amarelo            |
 | 1x LED Verde           | [ x ]        | LED verde              |
-| 4x Resistor            | [ x ]        | 3 Resistores de 330 Ω para os leds e resistor de 1k para LCD       |
+| 4x Resistor            | [ x ]        | 3 Resistores de 330 Ω para os leds e resistor de 1k Ω para LCD       |
 | 23x Fios e Conectores   | [ x ]        | fios: 9 verdes; 2 amarelos; 4 vermelhos; 1 laranja; 7 pretos; |
 | 1x LCD                 | [ x ]        | LCD 16X2    |
 
@@ -26,9 +26,9 @@ O projeto também incorpora uma funcionalidade de registrar a data e a hora da e
 
 1. **Configuração do Hardware:**
    - Conecte o sensor ultrassônico os pinos GNV(negativo), 5V(positivo) e o sig ao pino 3 do Arduino.
-   - Conecte LEDs aos pinos 11 (1x vermelho), 12 (1x amarelo) e 13 (1x verde).
+   - Conecte LEDs aos pinos 11 (vermelho), 12 (amarelo) e 13 (verde).
    - Conecte o 1x LCD 16X2 como mostra a imagem do projeto
-   
+   <br>
     <img src="imagem do arduino.jpg" alt="imagem do arduino">
 
 2. **Configuração do Software:**
@@ -41,7 +41,7 @@ O projeto também incorpora uma funcionalidade de registrar a data e a hora da e
 
 ## Simulação no Tinkercad
 
-Você pode visualizar uma simulação do projeto no Tinkercad [clicando aqui](link_tinkercad). Certifique-se de ajustar as conexões de acordo com as instruções fornecidas.
+Você pode visualizar uma simulação do projeto no Tinkercad [clicando aqui](https://www.tinkercad.com/things/iDz8HZCpnFN-gs-edge/editel?returnTo=%2Fdashboard%3Ftype%3Dcircuits%26collection%3Ddesigns&sharecode=nb_CWYA2nTmFLDu0Aibett9ebNhmtJRMPGBdZdaMwYI). Certifique-se de ajustar as conexões de acordo com as instruções fornecidas.
 
 **Observação:** Lembre-se de substituir "link_tinkercad" pelo link real da sua simulação no Tinkercad.
 
