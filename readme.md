@@ -43,6 +43,4 @@ O projeto também incorpora uma funcionalidade de registrar a data e a hora da e
 
 Você pode visualizar uma simulação do projeto no Tinkercad [clicando aqui](https://www.tinkercad.com/things/iDz8HZCpnFN-gs-edge/editel?returnTo=%2Fdashboard%3Ftype%3Dcircuits%26collection%3Ddesigns&sharecode=nb_CWYA2nTmFLDu0Aibett9ebNhmtJRMPGBdZdaMwYI). Certifique-se de ajustar as conexões de acordo com as instruções fornecidas.
 
-**Observação:** Lembre-se de substituir "link_tinkercad" pelo link real da sua simulação no Tinkercad.
-
 Este projeto oferece uma solução simples, porém eficaz, para a contagem de pacientes em clínicas médicas, proporcionando dados valiosos para melhorar a eficiência operacional e a qualidade do atendimento.
