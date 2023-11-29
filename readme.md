@@ -10,18 +10,6 @@ A solução proposta consiste em um dispositivo Arduino que utiliza um sensor ul
 
 O projeto também incorpora uma funcionalidade de registrar a data e a hora da entrada de cada paciente, permitindo uma análise temporal do fluxo de pacientes.
 
-## Especificações de Componentes
-
-| Componente          | Quantidade | Descrição                                           |
-|---------------------|------------|-----------------------------------------------------|
-| 1x Sensor Ultrassônico | [ x ]        | Modelo Arduino UNO     |
-| 1x LED Vermelho        | [ x ]        | LED vermelho          |
-| 1x LED Amarelo         | [ x ]        | LED amarelo            |
-| 1x LED Verde           | [ x ]        | LED verde              |
-| 4x Resistor            | [ x ]        | 3 Resistores de 330 Ω para os leds e resistor de 1k Ω para LCD       |
-| 23x Fios e Conectores   | [ x ]        | fios: 9 verdes; 2 amarelos; 4 vermelhos; 1 laranja; 7 pretos; |
-| 1x LCD                 | [ x ]        | LCD 16X2    |
-
 ## Instruções de Configuração e Execução
 
 1. **Configuração do Hardware:**
@@ -38,6 +26,19 @@ O projeto também incorpora uma funcionalidade de registrar a data e a hora da e
    - Ligue o Arduino.
    - Observe a iluminação dos LEDs para indicar o estado de entrada dos pacientes.
    - Os dados, incluindo o número de pacientes e a data/hora de entrada, serão exibidos na porta serial (Serial Monitor).
+
+## Especificações de Componentes
+
+| Componente          | Quantidade | Descrição                                           |
+|---------------------|------------|-----------------------------------------------------|
+| 1x Sensor Ultrassônico | [ x ]        | Modelo Arduino UNO     |
+| 1x LED Vermelho        | [ x ]        | LED vermelho          |
+| 1x LED Amarelo         | [ x ]        | LED amarelo            |
+| 1x LED Verde           | [ x ]        | LED verde              |
+| 4x Resistor            | [ x ]        | 3 Resistores de 330 Ω para os leds e resistor de 1k Ω para LCD       |
+| 23x Fios e Conectores   | [ x ]        | fios: 9 verdes; 2 amarelos; 4 vermelhos; 1 laranja; 7 pretos; |
+| 1x LCD                 | [ x ]        | LCD 16X2    |
+
 
 ## Simulação no Tinkercad
 
