@@ -10,12 +10,26 @@ A solução proposta consiste em um dispositivo Arduino que utiliza um sensor ul
 
 O projeto também incorpora uma funcionalidade de registrar a data e a hora da entrada de cada paciente, permitindo uma análise temporal do fluxo de pacientes.
 
+## Especificações de Componentes
+
+| Componente          | Quantidade | Descrição                                           |
+|---------------------|------------|-----------------------------------------------------|
+| Arduino             | [ ]        | Modelo e versão do Arduino utilizado               |
+| Sensor Ultrassônico | [ ]        | Modelo e especificações do sensor ultrassônico     |
+| LED Vermelho        | [ ]        | Especificações do LED vermelho utilizado           |
+| LED Amarelo         | [ ]        | Especificações do LED amarelo utilizado            |
+| LED Verde           | [ ]        | Especificações do LED verde utilizado              |
+| Resistor            | [ ]        | Valor e quantidade de resistores utilizados        |
+| Fios e Conectores   | [ ]        | Tipo e quantidade de fios e conectores utilizados  |
+| Outros Componentes  | [ ]        | Especificações de quaisquer outros componentes     |
+
 ## Instruções de Configuração e Execução
 
 1. **Configuração do Hardware:**
-   - 1x sensor ultrassônico.
+   - Conecte o sensor ultrassônico os pinos GNV(negativo), 5V(positivo) e o sig ao pino 3 do Arduino.
    - Conecte LEDs aos pinos 11 (1x vermelho), 12 (1x amarelo) e 13 (1x verde).
-   - Conecte o 1x LCD 16X2 como mostra a imagem
+   - Conecte o 1x LCD 16X2 como mostra a imagem do projeto
+   
     <img src="imagem do arduino.jpg" alt="imagem do arduino">
 
 2. **Configuração do Software:**
